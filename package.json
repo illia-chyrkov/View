@@ -1,0 +1,19 @@
+{
+  "name": "view",
+  "version": "0.0.1",
+  "description": "React-like UI library",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "7.11.4",
+    "@babel/plugin-transform-react-jsx": "7.10.4",
+    "@babel/preset-env": "7.11.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.12.4"
+  },
+  "keywords": []
+}
